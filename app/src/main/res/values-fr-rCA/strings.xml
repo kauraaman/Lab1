@@ -10,4 +10,5 @@
     <string name="dialog_title">Activité de fin?</string>
     <string name="ok">D\'accord</string>
     <string name="cancel">Annuler</string>
+    <string name="startChat">Démarrer la discussion</string>
 </resources>
